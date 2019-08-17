@@ -23,45 +23,45 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 
 --20 users
 INSERT INTO users (name, age)
-    VALUES ("John", 33)
+    VALUES ("John", 33);
 INSERT INTO users (name, age)
-    VALUES ("Betty", 23)
+    VALUES ("Betty", 23);
 INSERT INTO users (name, age)
-    VALUES ("Bobby", 44)
+    VALUES ("Bobby", 44);
 INSERT INTO users (name, age)
-    VALUES ("Ben", 35)
+    VALUES ("Ben", 35);
 INSERT INTO users (name, age)
-    VALUES ("Erin", 34)
+    VALUES ("Erin", 34);
 INSERT INTO users (name, age)
-    VALUES ("Sally", 45)
+    VALUES ("Sally", 45);
 INSERT INTO users (name, age)
-    VALUES ("Draper", 47)
+    VALUES ("Draper", 47);
 INSERT INTO users (name, age)
-    VALUES ("Mark", 68)
+    VALUES ("Mark", 68);
 INSERT INTO users (name, age)
-    VALUES ("Tegan", 35)
+    VALUES ("Tegan", 35);
 INSERT INTO users (name, age)
-    VALUES ("Angie", 34)
+    VALUES ("Angie", 34);
 INSERT INTO users (name, age)
-    VALUES ("Kramer", 37)
+    VALUES ("Kramer", 37);
 INSERT INTO users (name, age)
-    VALUES ("Seinfeld", 40)
+    VALUES ("Seinfeld", 40);
 INSERT INTO users (name, age)
-    VALUES ("Bart", 12)
+    VALUES ("Bart", 12);
 INSERT INTO users (name, age)
-    VALUES ("Homer", 42)
+    VALUES ("Homer", 42);
 INSERT INTO users (name, age)
-    VALUES ("Marge", 37)
+    VALUES ("Marge", 37);
 INSERT INTO users (name, age)
-    VALUES ("Lisa", 8)
+    VALUES ("Lisa", 8);
 INSERT INTO users (name, age)
-    VALUES ("Maggie", 1)
+    VALUES ("Maggie", 1);
 INSERT INTO users (name, age)
-    VALUES ("Moe", 50)
+    VALUES ("Moe", 50);
 INSERT INTO users (name, age)
-    VALUES ("Kat", 26)
+    VALUES ("Kat", 26);
 INSERT INTO users (name, age)
-    VALUES ("Guy", 25)
+    VALUES ("Guy", 25);
 
 
 
